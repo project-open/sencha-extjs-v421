@@ -15,18 +15,16 @@
         <summary>Sencha V4.2.1</summary>
         <release-date>2016-11-15</release-date>
         <vendor url="http://www.project-open.com/">]project-open[</vendor>
+	<license>]project-open[ Free License (FL)</license>
         <description format="text/plain">Sencha V4.2.1</description>
         <maturity>0</maturity>
-
         <provides url="sencha-extjs-v421" version="5.0.1.0.0"/>
         <requires url="intranet-core" version="4.0.0.0.0"/>
         <requires url="intranet-rest" version="4.0.0.0.0"/>
-
         <callbacks>
         </callbacks>
         <parameters>
         <!-- No version parameters -->
         </parameters>
-
     </version>
 </package>
