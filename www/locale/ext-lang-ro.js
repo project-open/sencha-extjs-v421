@@ -3,7 +3,7 @@ This file is part of Ext JS 4.2
 
 Copyright (c) 2011-2013 Sencha Inc
 
-Contact:  http://www.sencha.com/contact
+Contact:  https://www.sencha.com/contact
 
 Commercial Usage
 Licensees holding valid commercial licenses may use this file in accordance with the Commercial
@@ -11,7 +11,7 @@ Software License Agreement provided with the Software or, alternatively, in acco
 terms contained in a written agreement between you and Sencha.
 
 If you are unsure which license is appropriate for your use, please contact the sales department
-at http://www.sencha.com/contact.
+at https://www.sencha.com/contact.
 
 Build date: 2013-05-16 14:36:50 (f9be68accb407158ba2b1be2c226a6ce1f649314)
 */
@@ -19,7 +19,7 @@ Build date: 2013-05-16 14:36:50 (f9be68accb407158ba2b1be2c226a6ce1f649314)
  * Romanian translations for ExtJS 2.1
  * First released by Lucian Lature on 2007-04-24
  * Changed locale for Romania (date formats) as suggested by keypoint
- * on ExtJS forums: http://www.extjs.com/forum/showthread.php?p=129524#post129524
+ * on ExtJS forums: https://www.extjs.com/forum/showthread.php?p=129524#post129524
  * Removed some useless parts
  * Changed by: Emil Cazamir, 2008-04-24
  * Fixed some errors left behind
